@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IMDB API</string>
+    <string name="tv_codigo">Introduce codigo de actor</string>
+    <string name="btn_buscar">Buscar informacion</string>
+
+    <string name="btn_ver_filmografia">Ver filmografia</string>
+    <string name="tv_actor_noInfo">CODIGO DE ACTOR INCORRECTO</string>
+</resources>
